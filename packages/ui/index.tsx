@@ -1,3 +1,3 @@
 import * as React from "react";
-export * from "./Link";
+export * from "./MyLink";
 export * from "./Button";
